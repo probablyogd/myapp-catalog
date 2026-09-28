@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "test-app",
+      "name": "Test App",
+      "maker": "OGD",
+      "version": "1.0.3",
+      "description": "a",
+      "file": "files/test-app-1.0.3.exe"
+    }
+  ]
+}
