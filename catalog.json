@@ -1,15 +1,6 @@
 {
   "apps": [
     {
-      "id": "test-app",
-      "name": "Test App",
-      "maker": "1.0.4",
-      "version": "1.0.31",
-      "description": "a",
-      "file": "files/test-app-1.0.31.exe",
-      "icon": "icons/test-app.png"
-    },
-    {
       "id": "wavedodge",
       "name": "Wavedodge",
       "maker": "OGD",
