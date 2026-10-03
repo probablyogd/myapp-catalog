@@ -1,12 +1,30 @@
 {
   "apps": [
     {
+      "id": "test-app",
+      "name": "Test App",
+      "maker": "1.0.4",
+      "version": "1.0.31",
+      "description": "a",
+      "file": "files/test-app-1.0.31.exe",
+      "icon": "icons/test-app.png"
+    },
+    {
       "id": "wavedodge",
       "name": "Wavedodge",
       "maker": "OGD",
       "version": "1.0.0",
-      "description": "a",
-      "file": "https://github.com/probablyogd/myapp-catalog/releases/download/v1.0.0/WaveDodge.1.0.0.exe"
+      "description": "dodge the things with da wave",
+      "file": "files/wavedodge-1.0.0.exe",
+      "icon": "icons/wavedodge.png"
+    },
+    {
+      "id": "bumsify",
+      "name": "Bumsify",
+      "maker": "saltoback",
+      "version": "1.21",
+      "description": "listen music with bums and no ads",
+      "file": "files/bumsify-1.21.exe"
     }
   ]
 }
